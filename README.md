@@ -1,1 +1,0 @@
-# nihongo-go-app1
